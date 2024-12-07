@@ -69,6 +69,5 @@ A user-friendly web application for animal welfare:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md17ashik@gmail.com)
 
 ## 📈 GitHub Stats
-![Mohammed Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Mohammed Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashik1701&show_icons=true&theme=radical)
 
-*Note: Replace 'YourGitHubUsername' with your actual GitHub username*
