@@ -1,4 +1,4 @@
-# Hi, I,m Aashik F 👋
+# Hi 👋, I'm Aashik F 
 
 ## 🚀 About Me
 I'm a passionate Computer Science Engineering student with a strong focus on AI, Machine Learning, and Web Development. Currently pursuing an Integrated MTech at Vellore Institute of Technology, Chennai, I'm dedicated to creating innovative technological solutions that make a difference.
