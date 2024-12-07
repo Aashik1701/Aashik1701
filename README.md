@@ -1,32 +1,74 @@
-# Hi there! 👋 I'm Aashik, a Computer Science Engineering student at VIT.
+# Mohammed Aashik F 👋
 
-## 🎓 About Me
-I'm currently pursuing an Integrated M.Tech degree in Computer Science Engineering with a specialization in Business Analytics, and I'm set to graduate in 2027. I thrive on challenges and have developed core competencies in communication, collaboration, innovation, and leadership during my academic journey.
+## 🚀 About Me
+I'm a passionate Computer Science Engineering student with a strong focus on AI, Machine Learning, and Web Development. Currently pursuing an Integrated MTech at Vellore Institute of Technology, Chennai, I'm dedicated to creating innovative technological solutions that make a difference.
 
-## 💡 What Drives Me
-I am genuinely passionate about solving real-world problems and creating a positive impact. My academic pursuits have equipped me with the skills to tackle complex challenges in the tech and analytics space.
+## 📊 Academic Background
+- **Integrated MTech in Computer Science Engineering**
+  - Vellore Institute of Technology, Chennai
 
-## 🚀 Tech Enthusiast & Problem Solver
-I love to design and develop innovative and engaging web applications and platforms. My toolbox includes HTML, CSS, and JavaScript. These tools, combined with my problem-solving mindset, allow me to bring ideas to life on the web.
+## 🛠️ Tech Stack
 
-## 📊 Data Geek
-Beyond web development, I channel my analytical skills into data analysis, visualization, and interpretation. Python, R, and Tableau are my go-to tools for extracting meaningful insights from data. I believe in the power of data-driven decision-making.
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-## 🌱 Continuous Learner
-My academic journey is a continuous quest for learning and improvement. I'm driven by the goal of expanding my skill set every day. The tech world evolves rapidly, and I'm excited to keep pace with emerging technologies.
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00AEFF?style=for-the-badge&logo=neural-network&logoColor=white)
 
-## 🌟 Goals
-My overarching goal is to leverage my creativity and analytical thinking to contribute significantly to the growth and success of my team, organization, and community.
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📫 Let's Connect
-I'm always open to new opportunities, collaborations, and conversations. Feel free to reach out to me at [md1704ashik@gmail.com](mailto:md1704ashik@gmail.com).
+### 🛠️ Tools & Platforms
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 😄 Pronouns: he/him.
+## 🏆 Notable Projects
 
-- ⚡ Fun fact: ...
-I'm an avid enthusiast of space exploration! I can spend hours marvelling at the wonders of the cosmos and keeping up with the latest discoveries about our universe. 🚀✨
+### 1. DrugForge 💊
+An AI-powered platform for accelerating drug discovery with advanced predictions for:
+- Toxicity
+- Solubility
+- Target activity
+- Molecular docking
 
-<!---
-Aashik1701/Aashik1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 2. StressSense 🧘‍♀️
+A comprehensive web application for stress management featuring:
+- Real-time physiological data tracking
+- Discussion forums
+- Mindfulness exercises
+- Built with React, Vite, and Tailwind CSS
+
+### 3. Happy Tails 🐾
+A user-friendly web application for animal welfare:
+- Data analytics for user interactions
+- Insights on animal care trends
+- Developed using React, MongoDB, and Tailwind CSS
+
+## 🏅 Achievements
+- 6th Place at CARLO RINO International Hackathon 2024
+- 1st Place in UIUX Hackathon, VIT Chennai
+- Runner-up at DIMO HACKS National Level Hackathon
+- Best UI Design Award at DEFINE Hackathon
+
+## 📫 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-Profile-URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md17ashik@gmail.com)
+
+## 📈 GitHub Stats
+![Mohammed Aashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+*Note: Replace 'YourGitHubUsername' with your actual GitHub username*
