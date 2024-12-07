@@ -7,9 +7,6 @@ I'm a passionate Computer Science Engineering student with a strong focus on AI,
 - **Integrated MTech in Computer Science Engineering**
   - Vellore Institute of Technology, Chennai
 
-## 📊 Profile Views
-![Visitor Count](https://profile-visitor-badge.glitch.me/Aashik1701/count.svg)
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
