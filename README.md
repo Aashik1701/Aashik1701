@@ -5,6 +5,8 @@ I'm a passionate Computer Science Engineering student with a strong focus on AI,
 
 ## 🛠️ Tech Stack
 
+![](https://komarev.com/ghpvc/?username=Aashik1701&abbreviated=true)
+
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
