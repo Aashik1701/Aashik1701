@@ -5,7 +5,6 @@ I'm a passionate Computer Science Engineering student with a strong focus on AI,
 
 ![](https://komarev.com/ghpvc/?username=Aashik1701&abbreviated=true)
 
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
