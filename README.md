@@ -3,8 +3,6 @@
 ## 🚀 About Me
 I'm a passionate Computer Science Engineering student with a strong focus on AI, Machine Learning, and Web Development. Currently pursuing an Integrated MTech at Vellore Institute of Technology, Chennai, I'm dedicated to creating innovative technological solutions that make a difference.
 
-![](https://komarev.com/ghpvc/?username=Aashik1701&abbreviated=true)
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -61,6 +59,9 @@ A user-friendly web application for animal welfare:
 - 1st Place in UIUX Hackathon, VIT Chennai
 - Runner-up at DIMO HACKS National Level Hackathon
 - Best UI Design Award at DEFINE Hackathon
+
+
+![](https://komarev.com/ghpvc/?username=Aashik1701&abbreviated=true)
 
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aashik-f-690418263)
