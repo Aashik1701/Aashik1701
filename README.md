@@ -34,7 +34,7 @@ I'm a passionate Computer Science Engineering student with a strong focus on AI,
 
 ## 🏆 Notable Projects
 
-### 1. DrugForge 💊
+### 1. DrugForge 💊 - [Visit DrugForge](https://drugforge.vercel.app/)
 An AI-powered platform for accelerating drug discovery with advanced predictions for:
 - Toxicity
 - Solubility
